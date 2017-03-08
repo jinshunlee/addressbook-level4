@@ -3,7 +3,7 @@
 [![Build status](https://ci.appveyor.com/api/projects/status/bxn40adgo2brd0yn?svg=true)]
 (https://ci.appveyor.com/project/e0003133/main)
 [![Coverage Status](https://coveralls.io/repos/github/CS2103JAN2017-W14-B4/main/badge.svg?branch=v0.0)](https://coveralls.io/github/CS2103JAN2017-W14-B4/main?branch=v0.0)
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/3dbcf8e8ed8544b0a97d73c547890322)](https://www.codacy.com/app/e0003133/main?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=CS2103JAN2017-W14-B4/main&amp;utm_campaign=Badge_Grade)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/02ba7ff85b714d3eb7f9ede4c067856e)](https://www.codacy.com/app/jinshunlee/main?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=CS2103JAN2017-W14-B3/main&amp;utm_campaign=Badge_Grade)
 
 <p align="center" style="padding:25px">
   <img src="docs/images/Ui.png" width="700"><br>
